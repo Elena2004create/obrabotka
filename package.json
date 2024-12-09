@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "express": "^4.21.2",
+    "jsdom": "^25.0.1",
+    "node-fetch": "^2.7.0",
+    "node-schedule": "^2.1.1",
+    "request": "^2.88.2",
+    "sequelize": "^6.37.5",
+    "sqlite3": "^5.1.7"
+  }
+}

@@ -101,6 +101,7 @@ function getData(html, selectors, names) {
     }
 } */
 
+
 async function fetchIntoTable(table, url, selectors, names, task) {
     const sequelize = init();
 
